@@ -39,16 +39,16 @@
             </div>
         </nav>
         <div class="container">
-           <div class="card border-0 shadow my-5">
+           <div class="card border-0 shadow my-5 p-4">
                 <div class="card-header bg-light">
                     <h3 class="h5 pt-2">Dashboard</h3>
                 </div>
-                <div class="card-body">
+                <div class="card-body mb-2 text-danger">
                     You are logged in !!
                 </div>
 
-                <table>
-    <thead>
+                <table class="p-3">
+    <thead class="p-3" >
         <tr>
             <th>ID</th><th>Name</th><th>Email</th><th>Active</th><th>Action</th>
         </tr>
